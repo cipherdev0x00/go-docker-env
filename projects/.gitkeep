@@ -1,0 +1,4 @@
+# Ignore everything in this folder
+*
+# Except this file, so the folder is kept in the repo
+!.gitignore

@@ -1,0 +1,4 @@
+# Ignore everything inside projects/
+projects/*
+# But keep the placeholder so the empty folder is uploaded
+!projects/.gitkeep
